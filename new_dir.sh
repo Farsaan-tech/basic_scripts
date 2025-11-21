@@ -19,5 +19,6 @@ else
 	echo "ERROR:Couldn't create a Directory"
 
 fi 
+fi
 
 		
