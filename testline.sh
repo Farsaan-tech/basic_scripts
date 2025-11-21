@@ -1,6 +1,6 @@
 #!/bin/bash
 
-File="/home/batman/test_script/"
+File="/home/batman/test_script/test"
 
 #checking the file exixtance
 
