@@ -5,7 +5,7 @@
 if systemctl is-active nginx; then
     echo "Nginx service is running."
 else
-    echo "Nginx service is not running. Starting the service..."
+    echo "Nginx service is not running. Starting service..."
     sudo systemctl start nginx
 
     # Check if the service started successfully
