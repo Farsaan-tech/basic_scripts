@@ -7,6 +7,7 @@ sudo yum update systemd -y
 #installing the web server nginx
  
 sudo yum install nginx -y
+echo
 
 
 #checking status of the nginx service
